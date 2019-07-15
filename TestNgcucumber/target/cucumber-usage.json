@@ -1,0 +1,38 @@
+[
+  {
+    "source": "^Enter gmail URL$",
+    "steps": [
+      {
+        "name": "Enter gmail URL",
+        "aggregatedDurations": {
+          "average": 9.0113159,
+          "median": 9.0113159
+        },
+        "durations": [
+          {
+            "duration": 9.0113159,
+            "location": "Testngcucumber.feature:3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Enter User ID and Click$",
+    "steps": [
+      {
+        "name": "Enter User ID and Click",
+        "aggregatedDurations": {
+          "average": 9.8895609,
+          "median": 9.8895609
+        },
+        "durations": [
+          {
+            "duration": 9.8895609,
+            "location": "Testngcucumber.feature:4"
+          }
+        ]
+      }
+    ]
+  }
+]
